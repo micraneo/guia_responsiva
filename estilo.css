@@ -85,7 +85,7 @@ margin-bottom:10px;
 .carta {padding-top: 5%; padding-bottom: 5%}
 
 .banner {
-	background-image: url(https://github.com/micraneo/guia_responsiva/blob/d7e9f34276004350ad15520d1b1a916d9ca56158/banner.jpg);
+	background-image: "banner.jpg";
 	height: 200px;
 	background-size: cover;
 	background-position: center;
