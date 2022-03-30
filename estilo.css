@@ -85,7 +85,7 @@ margin-bottom:10px;
 .carta {padding-top: 5%; padding-bottom: 5%}
 
 .banner {
-	background-image: url(..//guia_responsiva/main/banner.jpg);
+	background-image: url(../guia_responsiva/main/banner.jpg);
 	height: 200px;
 	background-size: cover;
 	background-position: center;
